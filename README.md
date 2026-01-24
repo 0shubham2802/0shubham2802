@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br>Hi there 👋 I am Shubham Pant<br>🙍 About Me<br><br>😄 Pronouns: he/his/him<br><br>🔭 I'm an Post Graduate MCA Student and a SpringBoot developer.<br><br>🌱 I’m currently exploring AWS.<br><br>👯 I’m looking to collaborate on Open Source Projects.<br><br>📫 How to reach me : alt text alt text alt text<br><br>My Portfolio: https://shubham-pant-2802.netlify.app/
+<br>Hi there 👋 I am Shubham Pant<br>🙍 About Me<br><br>😄 Pronouns: he/his/him<br><br>🔭 I'm an Post Graduate MCA Student and a SpringBoot developer.<br><br>🌱 I’m currently exploring AWS.<br><br>👯 I’m looking to collaborate on Open Source Projects.<br><br>📫 How to reach me :shubhamalappant2802@gmail.com<br><br>My Portfolio: https://shubham-pant-2802.netlify.app/
 
 
 ## 🌐 Socials:
